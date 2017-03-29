@@ -2,10 +2,10 @@
   "name": "survivor",
   "version": "1.0.0",
   "description": "未来世界的幸存者",
-  "homepage": "https://ruanyf.github.io/survivor",
+  "homepage": "https://ITakeIT.github.io/survivor",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ruanyf/survivor.git"
+    "url": "https://github.com/ITakeIT/survivor.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
